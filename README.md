@@ -61,13 +61,25 @@ This project proposes a multimodal framework that integrates text and image moda
 
 ---
 
-## Model Performance
+## Performance Analysis
 
-| Model | Validation Accuracy |
-|--------|-------------------|
-| SVC + TF-IDF | 70.95% |
-| Logistic Regression + TF-IDF | 69.07% |
-| DistilBERT | 83.00% |
+### Text Classification Performance
+
+The text classification model based on **DistilBERT (`distilbert-base-uncased`)** demonstrated significant improvements in classification accuracy, particularly for underrepresented classes. The model effectively captured contextual and semantic information from product descriptions, leading to better generalization across categories with limited training samples.
+
+These results highlight the effectiveness of transformer-based architectures in handling class imbalance and improving classification performance for less-represented product categories.
+
+### Image Classification Performance
+
+The image classification model, built using CNN/ResNet architectures, achieved satisfactory performance for visually distinctive product categories. However, despite applying image augmentation techniques during preprocessing, the model showed limited improvements for certain underrepresented classes.
+
+Some minority classes continued to be misclassified, suggesting that the adopted augmentation strategy alone was insufficient to completely address class imbalance in image-based classification tasks.
+
+### Multimodal Fusion Performance
+
+The multimodal fusion approach, which combines textual and visual representations, delivered the best overall performance. By leveraging complementary information from both modalities, the fusion model improved classification robustness and reduced ambiguity in cases where either text or image information alone was insufficient.
+
+Overall, the experimental results demonstrate that integrating textual and visual features significantly enhances product categorization accuracy and robustness for large-scale e-commerce catalogs.
 
 ---
 

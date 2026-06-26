@@ -1,0 +1,19 @@
+
+# DistilBERT Trained Model
+
+This folder contains information about the DistilBERT model trained for Text classification
+
+
+## Model Details
+- **Name:** DistilBERT_with_LRDecay_model_5e-5
+- **Framework:** Tensorflow
+
+
+## Download Link
+The trained model is too large to be included in this repository. You can download it from the following link:
+
+[Download Trained Model from Google Drive](https://drive.google.com/drive/folders/1OP4Or-DkGOppI-VIqKJxdk-xJ9M7HPpu?usp=sharing)
+
+
+## Notes
+Ensure you have the necessary dependencies installed to load and use the model.

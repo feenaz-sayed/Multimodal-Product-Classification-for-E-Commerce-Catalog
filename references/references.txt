@@ -1,0 +1,21 @@
+References
+
+M. Bader, “Multimodal fusion of visual and textual data for robust retail product recognition and classification,” in Proceedings of the SSRN Research Network, Aug. 2025. 
+
+X. Ling, H. Du, B. Peng, Z. Zhu, and X. Ning, “Captions speak louder than images: Generalizing foundation models for e-commerce from high-quality multimodal instruction data,” in Proceedings of the arXiv Conference on Artificial Intelligence, 2024. 
+
+A. Shah, P. Goel, and V. C. Gandhi, “E-commerce products image classification using EfficientNetB5 with transfer learning,” in Proceedings of the International Conference on Intelligent Systems and Applications, 2024. 
+
+M. Pawłowski, “Machine learning based product classification for eCommerce,” in Proceedings of the IEEE International Conference on Computer Information Systems, 2021, pp. 1–10. 
+
+Y.-C. Chen, L. Li, L.Yu, et al., “UNITER: Learning universal image–text representations,” in Proceedings of the European Conference on Computer Vision (ECCV), Glasgow, UK, 2020, pp. 104–120. 
+
+A. Radford, J. W. Kim, C. Hallacy, et al., “Learning transferable visual models from natural language supervision,” in Proceedings of the International Conference on Machine Learning (ICML), Virtual Conference, 2021, pp. 8748–8763. 
+
+J. Devlin, M. W. Chang, K. Lee, and K. Toutanova, “BERT: Pre-training of deep bidirectional transformers for language understanding,” in Proceedings of the North American Chapter of the Association for Computational Linguistics (NAACL), Minneapolis, USA, 2019, pp. 4171–4186. 48 
+
+V. Sanh, L. Debut, J. Chaumond, and T. Wolf, “DistilBERT: A distilled version of BERT,” in Proceedings of the NeurIPS Workshop on Efficient NLP, Vancouver, Canada, 2020. 
+
+K. He, X. Zhang, S. Ren, and J. Sun, “Deep residual learning for image recognition,” in Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), Las Vegas, USA, 2016, pp. 770–778. 
+
+K. Simonyan and A. Zisserman, “Very deep convolutional networks for large-scale image recognition,” in Proceedings of the International Conference on Learning Representations (ICLR), San Diego, USA, 2015. 
